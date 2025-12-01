@@ -39,5 +39,5 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 * https://codeberg.org/BSDTurkiyeToplulugu/community_backend
 * https://git.disroot.org/BSDTurkiyeToplulugu/community_backend
 * https://git.sr.ht/~mertgor/community_backend
-* https://gitlab.com/bsdturkiyetoplulugu/community_backend#
+* https://gitlab.com/bsdturkiyetoplulugu/community_backend
 * https://github.com/BSDTurkiyeToplulugu/community_backend
